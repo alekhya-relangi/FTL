@@ -1,4 +1,4 @@
-## A Django application with User and ActivityPeriod models with an API to serve that data in the json format.
+## Django application with User and ActivityPeriod models with an API to serve that data in the json format.
 
 ### The biggest reason to use Django REST Framework is because it makes serialization so effortless!
 
